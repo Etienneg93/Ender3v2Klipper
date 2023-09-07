@@ -1,6 +1,6 @@
 # Ender 3 V2 Klipper Setup
 
-This repository contains all the essential configuration files for running an Ender 3 V2 3D printer with Klipper firmware.
+This repository contains all the my configuration files for running an Ender 3 V2 3D printer with Klipper firmware.
 
 ## Table of Contents
 
