@@ -13,7 +13,7 @@ This repository contains all the essential configuration files for running an En
 
 1. Clone this repository to your machine.
     ```bash
-    git clone https://github.com/YourUsername/Ender3V2Klipper.git
+    git clone https://github.com/Etienneg93/Ender3V2Klipper.git
     ```
 2. Follow the Klipper [installation guide](https://klipper3d.org/Installation.html) to set up the printer.
 
@@ -22,7 +22,6 @@ This repository contains all the essential configuration files for running an En
 Here's a quick rundown of the key files in this repo:
 
 - **macros/**: Directory containing custom macros.
-- **.gitignore**: Specifies files to ignore in Git.
 - **.moonraker.conf.bkp**: Backup for Moonraker configuration.
 - **KlipperScreen.conf**: KlipperScreen interface configuration.
 - **KlipperScreen.conf.save**: Backup for KlipperScreen configuration.
