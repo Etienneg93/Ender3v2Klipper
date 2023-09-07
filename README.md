@@ -31,11 +31,11 @@ Here's a quick rundown of the key files in this repo:
 - **moonraker-obico-update.cfg**: Moonraker Obico update configuration.
 - **moonraker-obico.cfg**: Moonraker Obico configuration.
 - **moonraker.conf**: Moonraker main configuration.
-- **old_printer.cfg**: Backup for old printer configuration.
+- **old_printer.cfg**: Backup for Ender 3v2 Creality 4.2.2 Board configuration.
 - **park.cfg**: Configuration for parking the print head.
 - **pause_park.cfg**: Configuration for pause and parking behavior.
 - **picoadxl.cfg**: Configuration for Pico ADXL345 sensor.
-- **printer.cfg**: Main Klipper printer configuration.
+- **printer.cfg**: Main Klipper BTT SKR E3 V3 printer configuration.
 - **webcam.txt**: Webcam configuration.
 
 ## Contributing
