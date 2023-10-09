@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  spoolman:
+    image: ghcr.io/donkie/spoolman:latest
+    restart: unless-stopped
+    volumes:
+      - type: bind
+        source: "/home/pi/printer_data/config/Spoolman"
+        target: /home/app/.local/share/spoolman
+    ports:
+      - "7912:8000"
+    environment:
+      - TZ=Atlantic/Reykjavik # Set timezone based on system timezone
